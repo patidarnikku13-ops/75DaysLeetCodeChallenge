@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0367-valid-perfect-square](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/patidarnikku13-ops/75_Np/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
 |  |
@@ -39,4 +40,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
+## Binary Search
+|  |
+| ------- |
+| [0367-valid-perfect-square](https://github.com/patidarnikku13-ops/75DaysLeetCodeChallenge/tree/master/0367-valid-perfect-square) |
 <!---LeetCode Topics End-->
